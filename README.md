@@ -54,7 +54,8 @@ ACTIVITY DIAGRAM:
 
 
 
-![ex 2 activity diagram](https://github.com/sandhyabalamurali/Library-Management/assets/115525118/ba363d8a-4897-4942-817b-cc843c7f70d3)
+![activity 2](https://github.com/sandhyabalamurali/Library-Management/assets/115525118/2dffc9d0-3a56-4e38-ac28-b5396a906f4a)
+
 
 
 
